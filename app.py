@@ -4,6 +4,7 @@
 # It uses the same page layout as the final app, so the look never changes.
 
 import streamlit as st
+import pandas
 
 st.set_page_config(page_title="AI Career Planner", page_icon="🎯", layout="centered")
 
